@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Aakash15042002
+- 👋 Hi, I’m @Aakash
+- 👨‍🎓M.Sc.Statistics
 
 
 
